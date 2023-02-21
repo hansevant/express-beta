@@ -7,4 +7,4 @@ api for react beta
 
 ```npx prisma migrate dev```
 
-```npx prisma db seed```
+happy production!
