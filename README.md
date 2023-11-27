@@ -5,6 +5,10 @@ api for react beta
 
 ```npm i```
 
+> bikin env baru atau edit langsung schema prisma url dbnya
+
 ```npx prisma migrate dev```
+
+```nodemon index```
 
 happy production!
